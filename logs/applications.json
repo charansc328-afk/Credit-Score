@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2026-05-03T22:41:37.283552",
+    "demo_user": "rh rhuf",
+    "score": 899,
+    "decision": "STANDARD",
+    "risk_tier": "Low",
+    "ilf_reliability": 0.5834,
+    "catch_trial_flagged": false
+  },
+  {
+    "timestamp": "2026-05-03T22:59:20.246208",
+    "demo_user": "Custom Applicant",
+    "score": 899,
+    "decision": "STANDARD",
+    "risk_tier": "Low",
+    "ilf_reliability": 0.5563,
+    "catch_trial_flagged": false
+  },
+  {
+    "timestamp": "2026-05-03T23:01:33.776616",
+    "demo_user": "jninn",
+    "score": 899,
+    "decision": "STANDARD",
+    "risk_tier": "Low",
+    "ilf_reliability": 0.9242,
+    "catch_trial_flagged": false
+  },
+  {
+    "timestamp": "2026-05-04T10:30:51.851858",
+    "demo_user": "neeraj p",
+    "score": 899,
+    "decision": "STANDARD",
+    "risk_tier": "Low",
+    "ilf_reliability": 0.7618,
+    "catch_trial_flagged": false
+  },
+  {
+    "timestamp": "2026-05-04T10:30:51.867316",
+    "demo_user": "neeraj p",
+    "score": 899,
+    "decision": "STANDARD",
+    "risk_tier": "Low",
+    "ilf_reliability": 0.7618,
+    "catch_trial_flagged": false
+  }
+]
